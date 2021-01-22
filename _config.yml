@@ -6,4 +6,4 @@ github_username:  cgolja01
 markdown: kramdown
 baseurl: "/cgolja01.github.io"
 url: "https://cgolja01.github.io/"
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
