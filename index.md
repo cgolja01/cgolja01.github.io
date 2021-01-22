@@ -1,29 +1,17 @@
 
 # About Me 
-> 
-I am a 5th year PhD student at the Harvard University School of Engineering and Applied Science working with David Keith. 
+>
+I am a 5th year PhD student at the Harvard University School of Engineering and Applied Science working with David Keith. After completing my undergraduate degree in Chemical Engineering at Tufts University, I worked at Navigant (now Guidehouse) as a consultant on projects for the Deparment of Energy's energy-efficiency standards and test procedures for residential and commercial appliances. 
+
+Since beginning my PhD at Harvard in 2016, my research has focused on understanding the microphysical processes that govern the behavior of stratospheric aerosols under conditions relevant to solar geoengineering. Specifically, I have modifed the Atmospheric and Environmental Research (AER) aerosol model to integrate with a second-order advection scheme to capture changes to the size distribution of aerosol and aerosol precursor injected into the velocity field of a balloon based payload fitted with two propellers. Currently, I am able to capture the processes of nucleation, coagulation, evaporation and condensation. Going forward I hope to expand my toolbox to look at the effects of gravitational sedimentation, turbulent coagulation and ion-induced nucleation, as well as to probe the sensitivity of the resulting particle size distribution to temperature and turbulence. 
+
+Other ongoing work is focused on using a [super-parameterized](https://ncar.github.io/CAM/doc/build/html/users_guide/atmospheric-configurations.html#super-parameterized-cam-spcam)version of the Community Earth System Model (SP-CESM) to probe the mechanistic changes to large scale dynamics experienced when the model is forced with an idealized reduction in the solar constant. Because SP-CESM represents certain processes, including extreme precipitation and the MJO, that the traditional CESM does not, use of this tool may provide new insights into the mechanisms governing changes to these processes under conditions of idealized solar geoengineering. 
 ___
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+While I love work, I try to maintain a healthy balance, and enjoy biking, hiking, surfing and skiing, or really any outdoor activity!  
 
-1. Numbered
-2. List
+___
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cgolja01/cgolja01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
