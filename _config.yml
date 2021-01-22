@@ -3,4 +3,7 @@ email: cgolja@g.harvard.edu
 description: Keep up with Colleen's academic adventures
 twitter_username: colgol9
 github_username:  cgolja01
+markdown: kramdown
+baseurl: "/cgolja01.github.io"
+url: "https://cgolja01.github.io/"
 # theme: jekyll-theme-minimal
