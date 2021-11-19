@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Heat has larger impacts on labor in poorer areas"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/heat.pdf
+excerpt: ''
+date: 2021-9-15
+venue: 'Environmental Research Communications'
+paperurl: 'http://cgolja01.github.io/files/heat.pdf'
+citation: 'Behrer, A. P., Park, R. J., Wagner, G., Golja, C. M., & Keith, D. W. (2021). Heat has larger impacts on labor in poorer areas. Environmental Research Communications, 3(9), 095001. https://doi.org/10.1088/2515-7620/abffa3 .'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://cgolja01.github.io/files/heat.pdf)
+
+Recommended citation: Behrer, A. P., Park, R. J., Wagner, G., Golja, C. M., & Keith, D. W. (2021). Heat has larger impacts on labor in poorer areas. Environmental Research Communications, 3(9), 095001. https://doi.org/10.1088/2515-7620/abffa3 .
